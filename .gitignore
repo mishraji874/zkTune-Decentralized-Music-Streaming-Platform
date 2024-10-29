@@ -112,3 +112,5 @@ deployments-zk/zkSyncSepoliaTestnet/.chainId
 deployments-zk/zkSyncSepoliaTestnet/contracts/paymasters/GeneralPaymaster.sol/GeneralPaymaster.json
 deployments-zk/zkSyncSepoliaTestnet/contracts/zkTune.sol/ZkTune.json
 .DS_Store
+
+.env

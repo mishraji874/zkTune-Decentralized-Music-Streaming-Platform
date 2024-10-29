@@ -92,5 +92,5 @@ This project is under active development. The provided information represents th
 
 ## Additional Resources
 
-* Project Website (if applicable)
+* Project Website: https://zktune.vercel.app/
 * Project GitHub Repository: https://github.com/mishraji874/zkTune-Decentralized-Music-Streaming-Platform
