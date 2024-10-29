@@ -113,4 +113,3 @@ deployments-zk/zkSyncSepoliaTestnet/contracts/paymasters/GeneralPaymaster.sol/Ge
 deployments-zk/zkSyncSepoliaTestnet/contracts/zkTune.sol/ZkTune.json
 .DS_Store
 
-.env
